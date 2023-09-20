@@ -1,0 +1,10 @@
+jupyter
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+pretty_midi
+ppscore
+mido
+scikit-learn==1.2.2

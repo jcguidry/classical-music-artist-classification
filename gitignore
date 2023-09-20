@@ -1,0 +1,6 @@
+composer-classification-presentation.pptx
+composer-classification-presentation.pdf
+my_venv
+data/intermediate/*
+data/processed/*
+data/*
