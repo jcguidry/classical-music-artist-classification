@@ -4,7 +4,7 @@
 
 # Music Classification Mini-Project
 
-Given MIDI music files, predict the artist.
+Given Midi music files, predict the artist.
 
 ## Project Objective
 
@@ -22,9 +22,9 @@ The dataset consists of several hundred annotated MIDI files, corresponding to c
 
 ## Solution, Methods, and Results
 
-- Please see the [full project presentation](composer-classification-presentation.pdf) for an overview of the problem, solution, methods, and results.
-- For specific details on the implementation, please see the Jupyter Notebooks for [data creation and preprocessing](./notebooks/01_datacreation.ipynb) and [model training and evaluation](./notebooks/02_training.ipynb) notebook.
-  - Alternatively, these have been exported as [HTML Reports](./notebooks/reports).
+- For an overview of the problem, solution, methods, and results, please see the [project presentation](composer-classification-presentation.pdf).
+- For specific details on the implementation, please see the Jupyter Notebooks for [data creation and preprocessing](./notebooks/01_datacreation.ipynb) and [model training and evaluation](./notebooks/02_training.ipynb).
+  - Alternatively, these notebooks have been as [HTML files](./notebooks/reports) to view locally.
 
 ## Quickstart Guide
 
